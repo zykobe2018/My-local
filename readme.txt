@@ -1,1 +1,3 @@
-VimCrypt~03!¦½Ú÷Í¢ÚŠæë«uÖ\F¾8%åÃ9áıµ1®LëcTğ?/ä2ÎäYÁ–vròñ	Æè)ÚƒúÑÔùÄìÃe%Éœ8H“İæŒÂ]ø×•Ÿ‘3“˜¬ëÓÖs;”‰:§fª/Îù4|O†ö“
+Git is a distributed version control system.
+Git is free software distributed under the GPL.
+Git has a mutable index called stage.
